@@ -1,0 +1,9 @@
+{
+	"name": "pavanadf201",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c83cb898-451a-4497-bf6f-712738c2b1f8",
+		"tenantId": "ce8860b1-ee6c-46b5-b117-f9cdb2e21fba"
+	}
+}
